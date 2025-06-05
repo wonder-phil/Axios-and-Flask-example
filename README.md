@@ -9,7 +9,6 @@
 >> Go to the code directory with the package.json file <br />
 >> npm install <br />
 >> npm install axios <br />
->> npm start <br />
 
 
 > RUNNING Systems <br /> <br />
