@@ -7,7 +7,7 @@ function App() {
 
   const handleGetRequest = () => {
     axios
-      .get('http://localhost:8080')
+      .get('http://localhost:5000')
       .then((response) => {
         setResult(JSON.stringify(response.data, null, 2));
       })
@@ -19,7 +19,7 @@ function App() {
   const handlePostRequest = () => {
     axios
       .post(
-        'http://localhost:8080/compute',
+        'http://localhost:5000/compute',
         { heads },
         {
           headers: {
