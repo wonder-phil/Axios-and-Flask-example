@@ -12,6 +12,6 @@
 
 
 > RUNNING Systems <br /> <br />
-> Run the backend Python Flask: python3 simpleflask.py <br />
+> Run the backend Python Flask: `python3 simpleflask.py` <br />
 > Run the React Axios Test: `npm start` in the same directory as the package.json <br />
 > 
